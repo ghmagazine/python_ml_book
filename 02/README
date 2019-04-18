@@ -1,0 +1,8 @@
+chapter2.ipynb及び参照しているデータをダウンロードすると、手元の環境で実行できます。
+
+chapter2.ipynbが表示されない場合は、次のURLにアクセスすると実行結果が表示されます。
+http://htmlpreview.github.io/?https://raw.githubusercontent.com/ghmagazine/python_ml_book/master/02/chapter2.html
+
+上記の方法も不安定な場合は、
+https://github.com/ghmagazine/python_ml_book/blob/master/02/chapter2.py
+を参照してください。
