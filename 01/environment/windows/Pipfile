@@ -14,13 +14,15 @@ sklearn = "*"
 rdflib = "*"
 gensim = "*"
 matplotlib = "*"
-torchtext = "*"
-torch = "*"
-torchvision = "*"
 jupyterlab = "*"
 flask = "*"
 openpyxl = "*"
 xlrd = "*"
+pydot = "*"
+torchvision = "*"
+torchtext = "*"
+mecab-python-windows = "*"
+torch = {file = "https://download.pytorch.org/whl/cpu/torch-1.1.0-cp37-cp37m-win_amd64.whl"}
 
 [requires]
 python_version = "3.7"
